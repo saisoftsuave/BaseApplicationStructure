@@ -1,0 +1,25 @@
+
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+€
+Papp/src/main/java/com/saibabui/baseapplicationstructure/common/NetworkManager.kt,8/8/88a5cb46f51b07c35c02f25a400000b06c83e708
+ˆ
+Xapp/src/main/java/com/saibabui/baseapplicationstructure/data/remote/dto/DemoInterface.kt,5/a/5abd7aa981b46e1044d14bf8b8c01cffca442851
+…
+Uapp/src/main/java/com/saibabui/baseapplicationstructure/data/remote/CoinPaprikaApi.kt,0/7/07a2bc901a2624e855a500b7c088d86332e439c8
+“
+capp/src/main/java/com/saibabui/baseapplicationstructure/domain/usecases/get_coin/GetCoinsUseCase.kt,2/4/24ea0994b500e3fa359e6c8571e7dd82afce01da
+„
+Tapp/src/main/java/com/saibabui/baseapplicationstructure/presentation/MainActivity.kt,c/7/c77285ecf494f924eb9e78adfdd8936536accc48
+“
+capp/src/main/java/com/saibabui/baseapplicationstructure/presentation/coin_list/CoinListViewModel.kt,7/4/74438f9a625118ba771438f9503d2028ff6692ad
+z
+Japp/src/main/java/com/saibabui/baseapplicationstructure/CoinApplication.kt,3/8/3897556a7c782d99215bfd90449ef0f14c547847
+w
+Gapp/src/main/java/com/saibabui/baseapplicationstructure/di/AppModule.kt,0/a/0a1810e941c042b6fd2bd007915582f163819c54
+F
+app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
